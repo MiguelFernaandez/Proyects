@@ -38,7 +38,7 @@ Sin embargo, a pesar de todos los ataques registrados en Estados Unidos, surge l
 
 Observamos que no, ya que por delante de Estados Unidos se encuentran South Africa y Australia en términos de mortalidad por ataques de tiburón. Australia llega a duplicar la mortalidad de Estados Unidos con muchos menos casos registrados. Esto sugiere que la agresividad de los tiburones en esa zona puede ser mayor, o que las medidas de seguridad son menos efectivas o más precarias.
 
-En cuanto a si los tiburones tienen preferencias al atacar, esta es una pregunta compleja. Los ataques de tiburones pueden estar influenciados por varios factores, como la presencia de presas naturales, la actividad humana en el agua y la interacción con el entorno. Determinar preferencias específicas puede requerir un análisis más detallado de los patrones de comportamiento de los tiburones en diversas condiciones.
+En cuanto a si los tiburones tienen preferencias al atacar, esta es una pregunta compleja. Los ataques de tiburones pueden estar influenciados por varios factores, como la presencia de presas naturales, la actividad humana en el agua y la interacción con el entorno.  Voy a intentar entrarme en el sexo para la investigación.
 
 ![image](https://github.com/MiguelFernaandez/Proyects/assets/156945355/aedd4f5f-5e4d-42ec-a4bc-3757269fb950)
 
@@ -52,7 +52,7 @@ Es sorprendente observar que la proporción de ataques mortales y no mortales es
 
 ![image](https://github.com/MiguelFernaandez/Proyects/assets/156945355/dbb2c553-c75a-485c-b914-16853a5f168c)
 
-Después de revisar ambos gráficos, es evidente que los tiburones no atacan en función del género, sino más bien en relación con las actividades que la persona está realizando. Se observa que las mujeres son atacadas mientras realizan actividades como snorkel y natación, mientras que a los hombres les atacan más cuando practican surf o pescan con arpones. Esto sugiere que la elección de actividades en el agua puede influir en la probabilidad de sufrir un ataque de tiburón, independientemente del género.
+Después de revisar ambos gráficos, es evidente que los tiburones no atacan en función del género, sino más bien en relación con las actividades que la persona está realizando. Se observa que las mujeres son atacadas mientras realizan actividades como nadar y snorkel, mientras que a los hombres les atacan más cuando practican surf o pescan con arpones. Esto sugiere que la elección de actividades en el agua puede influir en la probabilidad de sufrir un ataque de tiburón, independientemente del género.
 
 También tuve la idea de analizar los países con más ataques a mujeres y a hombres, pero no saqué ninguna conclusión clara, ya que los datos eran idénticos. De todas maneras, aquí dejo los gráficos a continuación.
 
@@ -83,4 +83,5 @@ En términos generales, el hemisferio norte experimenta muchos más ataques, per
 
 Para finalizar, aquí os muestro un gráfico que representa la cantidad de ataques a lo largo de los años, relacionándolos con su hemisferio para revisar si hay algún patrón.
 
-Podemos extraer que, por lo general, los gráficos están relacionados, pero con una clara ventaja del hemisferio norte. Esto puede deberse tanto al propio estudio, que recopila más información de estos lugares, como a que efectivamente los tiburones tienden a atacar más en el hemisferio norte, aunque con menos intensidad.
+
+Podemos extraer que, por lo general, los gráficos estaban relacionados con una clara ventaja del hemisferio sur, hasta que alrededor de 1960 se dispararon los ataques de tiburón. Posteriormente, los ataques anuales volvieron a regularizarse, hasta que aproximadamente en 1990 se empezaron a registrar más ataques en el hemisferio norte. Desde mi punto de vista, seguramente se deba a que a medida que pasan los años, contamos con mejores tecnologías y podemos medir más los ataques que ocurren, por lo que parece que ahora los tiburones atacan más.
