@@ -1,3 +1,13 @@
+# Shark attack!
+
+Los ataques de tiburón han capturado la atención y la fascinación del público durante décadas, alimentando una amplia variedad de mitos y percepciones erróneas sobre estos depredadores marinos. Sin embargo, más allá de las representaciones cinematográficas dramáticas, entender la realidad de los ataques de tiburón es crucial para la gestión de la seguridad en entornos acuáticos y para la conservación de estas especies.
+
+Esta investigación se propone analizar de manera exhaustiva los ataques de tiburón a lo largo de los años, explorando patrones, tendencias y factores que podrían influir en la frecuencia y gravedad de estos incidentes. Desde la clasificación de especies hasta la identificación de las actividades humanas asociadas a los ataques, esta investigación busca proporcionar una visión integral que contribuya a una comprensión más precisa de la interacción entre tiburones y seres humanos. Además, se abordarán aspectos estacionales y geográficos para evaluar si existen preferencias específicas por parte de los tiburones en ciertos contextos.
+
+Al profundizar en estos aspectos, esperamos arrojar luz sobre la complejidad de los ataques de tiburón, promoviendo así estrategias de prevención más efectivas y una coexistencia más segura entre humanos y estos fascinantes depredadores oceánicos.
+
+# Empezemos la investigación
+
 Primero, realizamos un análisis general para obtener una visión de los tipos de datos que vamos a tener. 
 
 En este caso, parece que la investigación ha estado recopilando información durante varios años, pero la mayoría de los datos se concentra entre los años 80 y 2018.
